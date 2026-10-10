@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Kingkar Biswas 👋</h1>
-<h3 align="center">Flutter Mobile App Developer | 3+ Years Building Production Apps</h3>
+<h3 align="center">Full Stack Flutter Developer | Mobile App Developer | PHP Backend | 9+ Apps on Play Store & App Store | Firebase · REST API · GetX · Riverpod  | Open to Remote Work | 3+ Years Building Production Apps</h3>
 
 <p align="center">
   <a href="mailto:kingkar.dev01@gmail.com"><img src="https://img.shields.io/badge/Email-kingkar.dev01%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
