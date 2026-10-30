@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="mailto:kingkar.dev01@gmail.com"><img src="https://img.shields.io/badge/Email-kingkar.dev01%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kingkarbiswas/"><img src="https://img.shields.io/badge/LinkedIn-kingkarbiswas-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/kingkardev01"><img src="https://img.shields.io/badge/GitHub-kingkardev01-181717?style=flat&logo=github" /></a>
   <a href="https://kingkardev01.github.io/kingkar-portfolio/"><img src="https://img.shields.io/badge/Portfolio-kingkardev01.github.io%2Fkingkar--portfolio-FF8A3D?style=flat&logo=googlechrome&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Khulna%2C%20Bangladesh-blue?style=flat" />
@@ -13,6 +14,7 @@
 ### 🚀 About Me
 
 - 📱 Mobile app developer with **3+ years** of experience shipping production Android & iOS apps, primarily with **Flutter**
+- 🚀 Handle full **Google Play Store and Apple App Store publishing**, from build to release
 - 🛠️ Also build with native **Kotlin** and **PHP** backend — not just Flutter-only
 - 🌍 Built and shipped **9 production apps**, live on **Play Store and App Store**, for international clients in Portugal and Nigeria — ride-hailing, e-commerce, e-learning, hospitality, news, and AR entertainment
 - 🎯 Own end-to-end delivery: API integration, state management, offline-first flows, real-time updates, testing, and release
@@ -43,6 +45,10 @@
 <img src="https://img.shields.io/badge/Google_Maps_SDK-4285F4?style=flat&logo=googlemaps&logoColor=white"/>
 </p>
 
+**Publishing:** Google Play Store · Apple App Store
+
+**AI:** Gemini API · AI-assisted development (Claude, Cursor)
+
 **State Management:** GetX · Riverpod · Provider
 **Architecture:** Clean Architecture · SOLID · MVVM · MVC · Repository Pattern
 
@@ -62,7 +68,13 @@
 | **AllNews** | Digital newspaper reading app | [Play](https://play.google.com/store/apps/details?id=ng.setuptech.allnews) |
 | **Acelar** | Course management system for institutions | [Play](https://play.google.com/store/apps/details?id=pt.acelr.acelr) · [App Store](https://apps.apple.com/pt/app/id6504715340) |
 
-**Personal Projects:** All Downloader · Water Sort · English AI *(learn English through AI-powered conversation)*
+### 🧪 Personal Projects
+
+| Project | What it does |
+|---|---|
+| **Baby & Toddler Games: ABC 123** | Educational game that helps toddlers learn letters and numbers through play — currently in testing on my Google Play Console |
+| [**English AI Tutor**](https://github.com/kingkardev01/english-ai-tutor) | Flutter app where an AI tutor (Gemini API) corrects grammar in real time, with voice mode and progress tracking |
+| [**Water Sort**](https://github.com/kingkardev01/watersortapp) | Water sort puzzle game built with Flutter |
 
 ---
 
